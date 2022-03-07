@@ -7,6 +7,7 @@ public class EgyeniKonfKezelés {
 
        String nev1 = "KJ";
        String nev2 = "valami";
+       String nev3;
 
        
     }
